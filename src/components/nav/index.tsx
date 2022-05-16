@@ -59,7 +59,7 @@ const Nav = (props: Props) => {
                   </p>
                   {link.content === active ? (
                     <img
-                      src="/images/vectors/nav_active.svg"
+                      src="images/vectors/nav_active.svg"
                       alt="nav-active"
                       className="hidden md:block md:opacity-100 md:w-100"
                     />
