@@ -33,57 +33,57 @@ const Skills = (props: Props) => {
         <div className="col-span-12 md:col-span-5 lg:col-span-6 flex flex-col justify-center items-center my-10 sm:mt-0">
           <div className="flex items-center justify-center lg:mt-16 flex-wrap w-5/6 md:w-full xl:w-5/6">
             <img
-              src="/images/skills/mongodb.svg"
+              src="images/skills/mongodb.svg"
               alt="MongoDB"
               className="p-2 sm:p-6 h-16 sm:h-24"
             />
             <img
-              src="/images/skills/node.svg"
+              src="images/skills/node.svg"
               alt="NodeJS"
               className="p-2 sm:p-6 h-16 sm:h-24"
             />
             <img
-              src="/images/skills/react.svg"
+              src="images/skills/react.svg"
               alt="ReactJS"
               className="p-2 sm:p-6 h-16 sm:h-24"
             />
             <img
-              src="/images/skills/js.svg"
+              src="images/skills/js.svg"
               alt="Javascript"
               className="p-2 sm:p-6 h-16 sm:h-24"
             />
             <img
-              src="/images/skills/ts.svg"
+              src="images/skills/ts.svg"
               alt="AngularJS"
               className="p-2 sm:p-6 h-16 sm:h-24"
             />
             <img
-              src="/images/skills/react-native.svg"
+              src="images/skills/react-native.svg"
               alt="React Native"
               className="p-2 sm:p-6 h-16 sm:h-24"
             />
             <img
-              src="/images/skills/angular.svg"
+              src="images/skills/angular.svg"
               alt="ExpressJS"
               className="p-2 sm:p-6 h-16 sm:h-24"
             />
             <img
-              src="/images/skills/express.svg"
+              src="images/skills/express.svg"
               alt="MongoDB"
               className="p-2 sm:p-6 h-16 sm:h-24"
             />
             <img
-              src="/images/skills/figma.svg"
+              src="images/skills/figma.svg"
               alt="Figma"
               className="p-2 sm:p-6 h-16 sm:h-24"
             />
             <img
-              src="/images/skills/tailwindcss.svg"
+              src="images/skills/tailwindcss.svg"
               alt="Tailwind"
               className="p-2 sm:p-6 h-16 sm:h-24"
             />
             <img
-              src="/images/skills/git.svg"
+              src="images/skills/git.svg"
               alt="Git"
               className="p-2 sm:p-6 h-16 sm:h-24"
             />

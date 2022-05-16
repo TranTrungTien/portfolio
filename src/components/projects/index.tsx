@@ -7,7 +7,7 @@ const Projects = (props: Props) => {
     <section id="projects">
       <div className="relative h-auto py-10 lg:py-20">
         <img
-          src="/images/vectors/heart.svg"
+          src="images/vectors/heart.svg"
           alt="Circle Vector"
           className="absolute -right-50p md:-right-96 bottom-16 md:-bottom-20 pointer-events-none animate-pulse"
         />
@@ -15,7 +15,7 @@ const Projects = (props: Props) => {
           <div className="col-span-12 md:col-span-7 lg:col-span-6 flex flex-col justify-center items-center">
             <div className="items-center w-3/4 relative">
               <img
-                src="/images/vectors/boxes.svg"
+                src="images/vectors/boxes.svg"
                 alt="Box Vector"
                 className="block absolute right-0 top-0 w-20 md:w-16 lg:w-52 opacity-60"
               />
@@ -35,7 +35,7 @@ const Projects = (props: Props) => {
               </h1>
               <div className="sm:ml-52 xl:ml-96 transform rotate-90">
                 <img
-                  src="/images/vectors/arrows-right.svg"
+                  src="images/vectors/arrows-right.svg"
                   alt="Next"
                   className="hidden lg:block w-14 lg:mt-24 xl:mt-16 sm:mt-0 transform-all animate-translateright "
                 />

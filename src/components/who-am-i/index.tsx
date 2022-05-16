@@ -17,7 +17,7 @@ const WhoAmI = (props: Props) => {
         <div className="col-span-12 md:col-span-7 lg:col-span-7 flex flex-col justify-center items-center">
           <div className="items-center w-3/4 -mt-10 relative">
             <img
-              src="/images/vectors/triangle.svg"
+              src="images/vectors/triangle.svg"
               alt="Triangle 3d Vector"
               className="hidden md:block absolute right-0 top-0 w-2/3 md:w-16 animate-spin"
             />
@@ -68,7 +68,7 @@ const WhoAmI = (props: Props) => {
         </div>
         <div className="hidden md:flex md:col-span-5 lg:col-span-5 text-justify text-white justify-end items-end ">
           <img
-            src="/images/bongo-cat-codes.gif"
+            src="images/bongo-cat-codes.gif"
             alt="Harsh Goel"
             className="ml-auto w-full h-auto lg:w-4/5 pointer-events-none text-right self-center"
           />

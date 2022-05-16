@@ -4,7 +4,7 @@ const Work = (props: Props) => {
   return (
     <section id="works" className="relative h-auto py-10 lg:py-20">
       <img
-        src="/images/vectors/circle-spin.svg"
+        src="images/vectors/circle-spin.svg"
         alt="Circle Vector"
         className="absolute -right-16 md:-right-64 top-52 md:top-0 lg:bottom-36 w-1/3 2xl:w-1/3 pointer-events-none animate-spin"
       />
@@ -12,7 +12,7 @@ const Work = (props: Props) => {
         <div className="col-span-12 md:col-span-7 lg:col-span-6 flex flex-col justify-center items-center">
           <div className="items-center w-3/4 relative">
             <img
-              src="/images/vectors/boxes.svg"
+              src="images/vectors/boxes.svg"
               alt="Box Vector"
               className="block absolute right-0 top-0 w-20 md:w-16 lg:w-52 opacity-60"
             />
@@ -30,7 +30,7 @@ const Work = (props: Props) => {
             </p>
             <div className="sm:ml-52 xl:ml-96">
               <img
-                src="/images/vectors/arrows-right.svg"
+                src="images/vectors/arrows-right.svg"
                 alt="Next"
                 className="hidden lg:block w-14 lg:mt-24 xl:mt-16 sm:mt-0 transform-all animate-translatedown"
               />
@@ -39,7 +39,7 @@ const Work = (props: Props) => {
         </div>
         <div className="col-span-12 md:col-span-5 lg:col-span-6 flex flex-col items-center justify-center">
           <img
-            src="/images/heiphen.svg"
+            src="images/heiphen.svg"
             alt="Works at"
             className="w-48 lg:w-full p-10 sm:p-24 md:p-4 lg:p-24"
           />
